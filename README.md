@@ -1,0 +1,2 @@
+# llm-adversarial-testing
+This project demonstrates how structured counter-narratives and historical context can bypass LLM safety filters and elicit more nuanced responses on sensitive topics.
